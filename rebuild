@@ -1,0 +1,392 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://beetleness.com
+Site address (URL): https://beetleness.com
+WC Version: 8.5.2
+REST API Version: ✔ 8.5.2
+WC Blocks Version: ✔ 11.8.0-dev
+Action Scheduler Version: ✔ 3.7.1
+Log Directory Writable: ✔
+WP Version: 6.4.3
+WP Multisite: –
+WP Memory Limit: 1 GB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_GB
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.4.33
+PHP Post Max Size: 128 MB
+PHP Time Limit: 30
+PHP Max Input Vars: 1000
+cURL Version: 7.74.0
+OpenSSL/1.1.1w
+
+SUHOSIN Installed: –
+MySQL Version: 5.5.5-10.6.15-MariaDB-log
+Max Upload Size: 128 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.5.2
+WC Database Prefix: wp_
+Total Database Size: 59.09MB
+Database Data Size: 36.68MB
+Database Index Size: 22.41MB
+wp_woocommerce_sessions: Data: 0.09MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_downloadable_product_permissions: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_order_items: Data: 0.13MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_order_itemmeta: Data: 1.52MB + Index: 1.92MB + Engine InnoDB
+wp_woocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_actions: Data: 1.52MB + Index: 1.28MB + Engine InnoDB
+wp_actionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_logs: Data: 1.52MB + Index: 0.59MB + Engine InnoDB
+wp_admin_columns: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_aioseo_cache: Data: 0.11MB + Index: 0.03MB + Engine InnoDB
+wp_aioseo_notifications: Data: 0.03MB + Index: 0.06MB + Engine InnoDB
+wp_aioseo_posts: Data: 0.06MB + Index: 0.02MB + Engine InnoDB
+wp_blc_filters: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_blc_instances: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_blc_links: Data: 0.06MB + Index: 0.11MB + Engine InnoDB
+wp_blc_synch: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_cmplz_cookiebanners: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_cmplz_cookies: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_cmplz_services: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_commentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_comments: Data: 1.52MB + Index: 0.61MB + Engine InnoDB
+wp_easywpsmtp_debug_events: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_easywpsmtp_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_eb_form_settings: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_nf3_actions: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_action_meta: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_chunks: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_fields: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_field_meta: Data: 0.08MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_forms: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_form_meta: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_objects: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_object_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_relationships: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_upgrades: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wp_options: Data: 6.16MB + Index: 0.17MB + Engine InnoDB
+wp_postmeta: Data: 6.52MB + Index: 8.98MB + Engine InnoDB
+wp_posts: Data: 10.48MB + Index: 0.56MB + Engine InnoDB
+wp_post_smtp_logmeta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_post_smtp_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_redirect_404_hp_cp_log: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_smush_dir_images: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_termmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_terms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_term_relationships: Data: 0.13MB + Index: 0.11MB + Engine InnoDB
+wp_term_taxonomy: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_tinvwl_analytics: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_tinvwl_items: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_tinvwl_lists: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_userfeedback_surveys: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_userfeedback_survey_responses: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_usermeta: Data: 1.52MB + Index: 1.91MB + Engine InnoDB
+wp_users: Data: 0.11MB + Index: 0.08MB + Engine InnoDB
+wp_vi_wbe_history: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wcpdf_invoice_number: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wcu_modules: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wcu_modules_type: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wcu_usage_stat: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_admin_notes: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+wp_wc_admin_note_actions: Data: 0.05MB + Index: 0.02MB + Engine InnoDB
+wp_wc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wc_customer_lookup: Data: 0.13MB + Index: 0.11MB + Engine InnoDB
+wp_wc_download_log: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_orders: Data: 0.22MB + Index: 0.20MB + Engine InnoDB
+wp_wc_orders_meta: Data: 1.52MB + Index: 2.98MB + Engine InnoDB
+wp_wc_order_addresses: Data: 0.16MB + Index: 0.27MB + Engine InnoDB
+wp_wc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_order_operational_data: Data: 0.09MB + Index: 0.03MB + Engine InnoDB
+wp_wc_order_product_lookup: Data: 0.13MB + Index: 0.16MB + Engine InnoDB
+wp_wc_order_stats: Data: 0.11MB + Index: 0.05MB + Engine InnoDB
+wp_wc_order_tax_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_product_attributes_lookup: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_product_download_directories: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_product_meta_lookup: Data: 0.14MB + Index: 0.34MB + Engine InnoDB
+wp_wc_rate_limits: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woo_shippment_provider: Data: 0.14MB + Index: 0.00MB + Engine InnoDB
+wp_wpforms_payments: Data: 0.02MB + Index: 0.14MB + Engine InnoDB
+wp_wpforms_payment_meta: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_wpforms_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wpmailsmtp_debug_events: Data: 0.19MB + Index: 0.00MB + Engine InnoDB
+wp_wpmailsmtp_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wt_iew_action_history: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wt_iew_mapping_template: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_yith_wcwl: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_yith_wcwl_lists: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_yoast_indexable: Data: 0.52MB + Index: 0.45MB + Engine InnoDB
+wp_yoast_indexable_hierarchy: Data: 0.08MB + Index: 0.08MB + Engine InnoDB
+wp_yoast_migrations: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_yoast_primary_term: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_yoast_seo_links: Data: 0.05MB + Index: 0.03MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 274
+custom_css: 1
+customize_changeset: 218
+extb_post_footer: 1
+extb_post_header: 6
+extb_post_json: 9
+extb_post_main: 4
+extb_post_sidebar: 2
+hbupro_banner: 1
+lgx_parallax: 1
+nav_menu_item: 31
+nf_sub: 3
+page: 20
+post: 3
+product: 1040
+product_variation: 233
+pscw-size-chart: 5
+revision: 653
+shop_order: 561
+shop_order_placehold: 7
+shop_order_refund: 8
+sp_wcslider: 4
+universal_clocks: 1
+wp_navigation: 4
+wp_template: 2
+wpforms: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (43) ###
+
+All-in-One WP Migration: by ServMask – 6.77
+Better Search Replace: by WP Engine – 1.4.5
+Mailchimp block: by bPlugins LLC – 1.0.8
+Broken Link Checker: by WPMU DEV – 2.2.4
+Change Admin Email Setting Without Outbound Email: by John Dee – 3.3
+Classic Editor: by WordPress Contributors – 1.6.3
+Admin Columns: by AdminColumns.com – 4.6.1
+Cost of Goods for WooCommerce: by WPFactory – 3.2.5
+Customer Reviews for WooCommerce: by CusRev – 5.39.0
+Dynamic Year Block: by Márcio Duarte – 0.6.2
+Easy WP SMTP: by Easy WP SMTP – 2.2.0
+Enable Media Replace: by ShortPixel – 4.1.5
+Estimated Delivery for WooCommerce: by Daniel Riera – 1.3.5
+Font Awesome: by Font Awesome – 4.4.0
+WP Armour - Honeypot Anti Spam: by Dnesscarkey – 2.1.14
+IONOS Performance: by IONOS – 2.0.3
+Gutenberg Page Builder - Kioken Blocks: by Kioken Theme – 1.3.9
+Maintenance: by WebFactory Ltd – 4.08
+MC WooCommerce Tracking: by Matt Cook – 2.0
+Metorik Helper: by Metorik – 1.7.1
+Product Size Chart for WooCommerce: by VillaTheme – 1.1.7
+PW WooCommerce Bulk Edit: by Pimwick
+LLC – 2.122
+
+reCAPTCHA for WooCommerce: by Elliot Sowersby
+RelyWP – 1.3.2
+
+Redirect 404 Error Page to Homepage or Custom Page with Logs: by WPVibes – 1.8.8
+Change Storefront Footer Copyright Text: by QuadLayers – 2.1.4
+Title Toggle for Storefront Theme: by Wooassist – 1.2.5
+Storefront Top Bar: by Wooassist – 1.1.1
+Advanced Editor Tools: by Automattic – 5.9.2
+Use Any Font: by Dnesscarkey – 6.3.05
+WBW Currency Switcher for WooCommerce: by woobewoo – 1.9.5
+Payment Plugins Braintree For WooCommerce: by Payment Plugins
+support@paymentplugins.com – 3.2.53
+
+Variation Swatches for WooCommerce: by Emran Ahmed – 2.0.30
+WooCommerce Filter Orders by Product: by Kowsar Hossain – 4.0
+WooCommerce Google Analytics Integration: by WooCommerce – 1.8.13
+PDF Invoices & Packing Slips for WooCommerce: by WP Overnight – 3.7.7
+WooCommerce Royal Mail, Evri, & DPD Shipping Calculator Pro: by WPRuby – 4.5.2
+WooCommerce: by Automattic – 8.5.2
+Yoast SEO: by Team Yoast – 22.0
+WP Google Fonts: by Noah Kagan – 3.1.5
+WP Rollback: by WP Rollback – 2.0.6
+Smush: by WPMU DEV – 3.15.4
+WPForms Lite: by WPForms – 1.8.6.4
+YITH WooCommerce Wishlist: by YITH – 3.29.0
+
+### Inactive Plugins (27) ###
+
+Advanced Shipment Tracking for WooCommerce: by zorem – 3.6.5
+Akismet Anti-spam: Spam Protection: by Automattic - Anti-spam Team – 5.3.1
+All in One SEO: by All in One SEO Team – 4.5.5
+Block Specific Spam Woo Orders: by guwii – 0.7
+Bulky - Bulk Edit Products for WooCommerce: by VillaTheme – 1.1.7
+Complianz | GDPR/CCPA Cookie Consent: by Really Simple Plugins – 6.5.6
+Current Year Shortcodes: by Lukas Pugstaller – 0.3
+Essential Blocks: by WPDeveloper – 4.4.12
+Estimated Delivery Date for Woocommerce (Basic): by PluginHive – 1.3.4
+Import Export WordPress Users and WooCommerce Customers: by WebToffee – 2.5.1
+Jetpack: by Automattic – 13.0
+Media Sync: by Media Sync Team – 1.4.1
+Order Export & Order Import for WooCommerce: by WebToffee – 2.4.7
+Product Import Export for WooCommerce: by WebToffee – 2.4.0
+Royal Mail Live Rates: by Octolize – 1.3.18
+Shortcodes Ultimate: by Vova Anokhin – 7.0.2
+Spacer: by Justin Saad – 3.0.7
+Stackable - Gutenberg Blocks: by Gambit Technologies
+Inc – 3.12.8
+
+Storefront Blog Excerpt: by Wooassist – 1.1.4
+Storefront Footer Bar: by WooThemes – 1.0.4
+TI WooCommerce Wishlist: by TemplateInvaders – 2.8.0
+UserFeedback Lite: by UserFeedback Team – 1.0.13
+WooCommerce Blocks: by Automattic – 11.7.0
+WooCommerce PayPal Payments: by WooCommerce – 2.5.3
+WooCommerce Royal Mail Shipping Calculator: by WPRuby – 1.8.0
+WP Migrate Lite: by WP Engine – 2.6.9
+YITH Pre-Order for WooCommerce: by YITH – 2.20.0
+
+### Must Use Plugins (1) ###
+
+1&1 Product Subdomain: by 1&1 – 1.1.0
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: GBP (£)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to Woo.com: –
+Enforce Approved Product Download Directories: ✔
+HPOS feature screen enabled: ✔
+HPOS feature enabled: ✔
+Order datastore: Automattic\WooCommerce\Internal\DataStores\Orders\OrdersTableDataStore
+HPOS data sync enabled: –
+
+### WC Pages ###
+
+Shop base: #6 - /shop/
+Basket: #7 - /cart/
+Checkout: #8 - /checkout/
+My account: #9 - /my-account/
+Terms and conditions: #728 - /terms-and-conditions/
+
+### Theme ###
+
+Name: Storefront Child
+Version: 4.5.3.1704713108
+Author URL: https://woocommerce.com/
+Child Theme: ✔
+Parent Theme Name: Storefront
+Parent Theme Version: 4.5.4
+Parent Theme Author URL: https://woo.com/
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: customize-store
+minified-js
+new-product-management-experience
+product-linked
+settings
+async-product-editor-category-field
+
+Daily Cron: ✔ Next scheduled: 2024-02-07 10:04:10 +00:00
+Options: ✔
+Notes: 73
+Onboarding: completed
+
+### Action Scheduler ###
+
+Complete: 3,680
+Oldest: 2024-01-08 10:05:26 +0000
+Newest: 2024-02-06 15:18:34 +0000
+
+Failed: 29
+Oldest: 2024-01-08 10:13:12 +0000
+Newest: 2024-02-06 14:51:12 +0000
+
+Pending: 10
+Oldest: 2024-02-07 01:30:38 +0000
+Newest: 2024-02-13 14:51:13 +0000
+
+
+### Status report information ###
+
+Generated at: 2024-02-06 15:26:39 +00:00
+`
